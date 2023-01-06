@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>unknown.png</file>
+        <file>tempSplash.png</file>
+        <file>side_bear.png</file>
+        <file>side_usec.png</file>
+        <file>simpleback.png</file>
+        <file>ef2t.png</file>
+    </qresource>
+</RCC>
